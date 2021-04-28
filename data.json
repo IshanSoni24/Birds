@@ -1,0 +1,40 @@
+[
+	{
+  "birds": [ 
+	
+        {"name": "Black-Capped Chickadee", "species": "Poecile Atricapillus"},
+	{"name": "Grackle", "species": "Quiscalus Quiscula"},
+	{"name": "Common Starling", "species": "Sturnus Vulgaris"},
+	{"name": "Mourning Dove", "species": "Zenaida Macroura"},
+	{"name": "Black-Capped Chickadee", "species": "Poecile Atricapillus"},
+	{"name": "Bushtit", "species": "Psaltriparus minimus"},
+	{"name": "Grackle", "species": "Quiscalus Quiscula"},
+	{"name": "Snow Bunting", "species": "Plectrophenax nivalis"},
+	{"name": "Brant", "species": "Branta bernicla"},
+	{"name": "Double-crested Cormorant", "species": "Phalacrocorax auritus"},
+	{"name": "Common Gallinule", "species": "Gallinula galeata"},
+	{"name": "Western Gull", "species": "Larus occidentalis"},
+	{"name": "Red-shouldered Hawk", "species": "Buteo lineatus"},
+	{"name": "Black-crowned Night-Heron", "species": "Nycticorax nycticorax"},
+	{"name": "Anna’s Hummingbird", "species": "Calypte anna"},
+	{"name": "Rufous Hummingbird", "species": "Selasphorus rufus"}
+  ]   
+},
+
+{
+   "sighting":[
+	{"bird": "bird_a", "date": "2007-11-19"},
+	{"bird": "bird_b", "date": "2007-11-20"},
+	{"bird": "bird_c", "date": "2007-11-21"},
+	{"bird": "bird_d", "date": "2007-11-22"},
+	{"bird": "bird_e", "date": "2007-11-23"},
+	{"bird": "bird_f", "date": "2007-11-24"},
+	{"bird": "bird_g", "date": "2007-11-25"},
+	{"bird": "bird_h", "date": "2007-11-26"},
+	{"bird": "bird_i", "date": "2007-11-27"},
+	{"bird": "bird_j", "date": "2007-11-28"},
+	{"bird": "bird_k", "date": "2007-11-29"},
+	{"bird": "bird_l", "date": "2007-11-30"}
+	]
+}
+]
